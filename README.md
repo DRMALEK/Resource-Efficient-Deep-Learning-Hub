@@ -24,27 +24,27 @@ Below are the descriptions for each label used in the tables:
 
 ## 📄 Milestone Papers
 
-| Title                                                         | Year | Key Highlights                                             | Task                  | Label(s)                                | [...]
-|---------------------------------------------------------------|------|------------------------------------------------------------|-----------------------|-----------------------------------------|-[...]
-| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | Image Classification  | [...]
-| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Image Classification  | Training pa[...]
+| Title                                                         | Year | Key Highlights                                             | Label(s)                                | [...]
+|---------------------------------------------------------------|------|------------------------------------------------------------|-----------------------------------------|-[...]
+| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | [...]
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Training pa[...]
 
 ---
 
 ## 🛠️ Open Source Libraries/Frameworks
 
-| Name       | Description                                              | Key Highlights                                    | Stars | Label(s)                          | Repository/URL                [...]
-|------------|----------------------------------------------------------|---------------------------------------------------|-------|-----------------------------------|-------------------------------[...]
-| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering.       | 3.7k  | Hardware optimization, Train[...]
-| Distiller  | Python package for neural network compression research.   | Pruning, quantization, knowledge distillation.    | 2.8k  | Training, Learning paradigms      | [Distiller](https://github.co[...]
+| Name       | Description                                              | Key Highlights                                    | Label(s)                          | Repository/URL                [...]
+|------------|----------------------------------------------------------|---------------------------------------------------|-----------------------------------|-------------------------------[...]
+| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering.       | Hardware optimization, Train[...]
+| Distiller  | Python package for neural network compression research.   | Pruning, quantization, knowledge distillation.    | Training, Learning paradigms      | [Distiller](https://github.co[...]
 
 ---
 
 ## 🚀 How to Contribute
 
 - Add new entries to the tables above by filling in the relevant details.
-- For papers, include the title, year, key highlights, task addressed, label(s) (e.g., novel algorithms, training, learning, prompting paradigms, hardware optimization techniques), and link to the rep[...]
-- For libraries/frameworks, include the name, a short description, main highlights, GitHub stars (if applicable), label(s), and the repository URL.
+- For papers, include the title, year, key highlights, label(s) (e.g., novel algorithms, training, learning, prompting paradigms, hardware optimization techniques), and link to the rep[...]
+- For libraries/frameworks, include the name, a short description, main highlights, label(s), and the repository URL.
 
 ---
 
