@@ -24,26 +24,26 @@ Below are the descriptions for each label used in the tables:
 
 ## 📄 Milestone Papers
 
-| Title                                                         | Year | Key Highlights                                             | Label(s)                                | [...]
-|---------------------------------------------------------------|------|------------------------------------------------------------|-----------------------------------------|-[...]
-| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | [...]
-| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Training pa[...]
+| Title | Year | Key Highlights | Label(s) | Repository/URL |
+|-------|------|----------------|----------|----------------|
+| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | Novel algorithms, Hardware optimization | [Paper](https://arxiv.org/abs/1704.04861) |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Training paradigms, Novel algorithms | [Paper](https://arxiv.org/abs/1905.11946) |
 
 ---
 
 ## 🛠️ Open Source Libraries/Frameworks
 
-| Name       | Description                                              | Key Highlights                                    | Label(s)                          | Repository/URL                [...]
-|------------|----------------------------------------------------------|---------------------------------------------------|-----------------------------------|-------------------------------[...]
-| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering.       | Hardware optimization, Train[...]
-| Distiller  | Python package for neural network compression research.   | Pruning, quantization, knowledge distillation.    | Training, Learning paradigms      | [Distiller](https://github.co[...]
+| Name | Description | Key Highlights | Label(s) | Repository/URL |
+|------|-------------|----------------|----------|----------------|
+| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering. | Hardware optimization, Training paradigms | [TensorFlow Model Optimization](https://www.tensorflow.org/model_optimization) |
+| Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms | [Distiller](https://github.com/IntelLabs/distiller) |
 
 ---
 
 ## 🚀 How to Contribute
 
 - Add new entries to the tables above by filling in the relevant details.
-- For papers, include the title, year, key highlights, label(s) (e.g., novel algorithms, training, learning, prompting paradigms, hardware optimization techniques), and link to the rep[...]
+- For papers, include the title, year, key highlights, label(s) (e.g., novel algorithms, training, learning, prompting paradigms, hardware optimization techniques), and link to the repository/paper.
 - For libraries/frameworks, include the name, a short description, main highlights, label(s), and the repository URL.
 
 ---
