@@ -1,6 +1,7 @@
 # Resource-Efficient-Deep-Learning-Hub
 
 Welcome to the Resource-Efficient Deep Learning Hub!  
+
 This repository is dedicated to aggregating milestone papers, open-source libraries, and key resources focused on resource efficiency in computer vision.
 
 ---
