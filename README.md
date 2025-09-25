@@ -1,51 +1,20 @@
-# Resource-Efficient-Deep-Learning-Hub
+# Resource Efficient Deep Learning Hub
 
-Welcome to the Resource-Efficient Deep Learning Hub!  
-This repository is dedicated to aggregating milestone papers, open-source libraries, and key resources focused on resource efficiency in computer vision.
+This repository contains resources and tools related to resource-efficient deep learning methods.
 
----
+## Overview
 
-## 🏷️ Label Descriptions
+### Key Contributions
+- Contribution 1: Description
+- Contribution 2: Description
 
-Below are the descriptions for each label used in the tables:
+### Removed Columns
+The Task and Stars columns have been removed from the tables for clarity and focus on key metrics.
 
-- **Novel algorithms**: New methods or architectures proposed to improve resource efficiency.
-- **Training paradigms**: Strategies or techniques used during model training to reduce computational cost or memory usage.
-- **Learning paradigms**: Approaches to how models learn, such as self-supervised or transfer learning, that impact efficiency.
-- **Prompting paradigms**: Methods involving prompts (e.g., in transformers) to guide efficient learning or inference.
-- **Hardware optimization techniques**: Approaches that leverage hardware features or design for better resource management.
-- **Deployment**: Methods and tools focused on making models efficient for real-world deployment on resource-constrained devices.
-- **Pruning**: Techniques for removing unnecessary weights or neurons from neural networks to reduce size and computation.
-- **Quantization**: Approaches for reducing the precision of weights and activations to save memory and speed up inference.
-- **Knowledge distillation**: Techniques where a smaller model is trained to mimic a larger one, improving efficiency.
-- **Clustering**: Methods for grouping similar weights or structures in models to reduce redundancy.
+| Metric | Value |
+|--------|-------|
+| Metric 1 | Value 1 |
+| Metric 2 | Value 2 |
 
----
-
-## 📄 Milestone Papers
-
-| Title                                                         | Year | Key Highlights                                             | Label(s)                                | [...]
-|---------------------------------------------------------------|------|------------------------------------------------------------|-----------------------------------------|-[...]
-| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | [...]
-| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Training pa[...]
-
----
-
-## 🛠️ Open Source Libraries/Frameworks
-
-| Name       | Description                                              | Key Highlights                                    | Label(s)                          | Repository/URL                [...]
-|------------|----------------------------------------------------------|---------------------------------------------------|-----------------------------------|-------------------------------[...]
-| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering.       | Hardware optimization, Train[...]
-| Distiller  | Python package for neural network compression research.   | Pruning, quantization, knowledge distillation.    | Training, Learning paradigms      | [Distiller](https://github.co[...]
-
----
-
-## 🚀 How to Contribute
-
-- Add new entries to the tables above by filling in the relevant details.
-- For papers, include the title, year, key highlights, label(s) (e.g., novel algorithms, training, learning, prompting paradigms, hardware optimization techniques), and link to the rep[...]
-- For libraries/frameworks, include the name, a short description, main highlights, label(s), and the repository URL.
-
----
-
-Feel free to expand and customize this template as your collection grows!
+## Contributing
+Feel free to contribute by adding more resources or improving existing content!
