@@ -1,20 +1,22 @@
 # Resource Efficient Deep Learning Hub
 
-This repository contains resources and tools related to resource-efficient deep learning methods.
-
 ## Overview
+This repository contains resources and tools for resource-efficient deep learning.
 
-### Key Contributions
-- Contribution 1: Description
-- Contribution 2: Description
+## Table of Contents
+- [Resources](#resources)
+- [Tools](#tools)
 
-### Removed Columns
-The Task and Stars columns have been removed from the tables for clarity and focus on key metrics.
+## Resources
+| Resource Name           | Description                     |
+|------------------------|---------------------------------|
+| EfficientNet           | A family of models for image classification.
+| MobileNet              | Lightweight model for mobile and edge devices.
+| SqueezeNet             | An efficient model for resource-constrained environments.
 
-| Metric | Value |
-|--------|-------|
-| Metric 1 | Value 1 |
-| Metric 2 | Value 2 |
-
-## Contributing
-Feel free to contribute by adding more resources or improving existing content!
+## Tools
+| Tool Name              | Description                     |
+|------------------------|---------------------------------|
+| TensorFlow             | An open-source library for machine learning.
+| PyTorch                | A library for deep learning applications.
+| ONNX                   | An open format for AI models.
