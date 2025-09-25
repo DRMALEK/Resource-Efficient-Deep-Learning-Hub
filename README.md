@@ -1,2 +1,8 @@
 # Resource-Efficient-Deep-Learning-Hub
-Resource-Efficient Deep Learning Reosurce - LLMS,VLMS,CNN
+This GitHub Repository is the source for all relevant work on resource efficiency in the computer vision world.
+
+Milestone Papers, Key Highlights, Year, Repository
+
+Open Source Libraries/Frameworks, Key Higlights Stars
+
+
