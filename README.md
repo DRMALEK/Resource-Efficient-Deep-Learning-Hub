@@ -39,8 +39,7 @@ Below are the descriptions for each label used in the tables:
 |------|-------------|----------------|----------|------------------|
 | TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering. | Hardware optimization techniques, Training paradigms, Pruning, Quantization, Clustering | [GitHub](https://github.com/tensorflow/model-optimization) |
 | Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms, Pruning, Quantization, Knowledge distillation | [GitHub](https://github.com/IntelLabs/distiller) |
-| FastVLM | Official (planned) implementation of FastVLM for efficient vision encoding in VLMs. | Hybrid FastViTHD encoder, multi-size variants (0.5B, 1.5B, 7B), potential mobile deployment. | Novel algorithms, Deployment, Hardware optimization techniques | [GitHub](https://github.com/apple/ml-fastvlm)|
-
+| Torch-Pruning | Flexible, graph-aware structural pruning toolkit (DepGraph) supporting CNNs, Transformers, LLMs, and vision foundation models. | Implements dependency graph–based structured pruning; adaptable to diverse architectures (LLMs, vision); MIT licensed. | Pruning, Training paradigms | [GitHub](https://github.com/VainF/Torch-Pruning) |
 ---
 
 ## 🚀 How to Contribute
