@@ -43,8 +43,6 @@ Below are the descriptions for each label used in the tables:
 | Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms, Pruning, Quantization, Knowledge distillation | [Distiller](https://github.com/IntelLabs/distiller) |
 | FastVLM | Official (planned) implementation of FastVLM for efficient vision encoding in VLMs. | Hybrid FastViTHD encoder, multi-size variants (0.5B, 1.5B, 7B), potential mobile deployment. | Novel algorithms, Deployment, Hardware optimization techniques | [Repository](https://github.com/apple/ml-fastvlm)|
 
-> If you know the official FastVLM repository, please replace the placeholder link.
-
 ---
 
 ## 🚀 How to Contribute
