@@ -31,8 +31,6 @@ Below are the descriptions for each label used in the tables:
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Compound scaling of depth, width, and resolution for better accuracy/efficiency tradeoff. | Novel algorithms, Training paradigms, Hardware optimization techniques | [Paper](https://arxiv.org/abs/1905.11946) |
 | FastVLM: Efficient Vision Encoding for Vision Language Models | 2025 | Hybrid FastViTHD vision encoder; reports up to 85× faster TTFT and 3.4× smaller vision encoder vs LLaVA-OneVision-0.5B. | Novel algorithms, Deployment, Hardware optimization techniques |[Paper](https://arxiv.org/abs/2412.13303)|
 
-> NOTE: FastVLM links are placeholders pending the public release of the official paper/repository. Feel free to update once identifiers are known.
-
 ---
 
 ## 🛠️ Open Source Libraries/Frameworks
