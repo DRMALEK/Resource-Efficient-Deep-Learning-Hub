@@ -25,7 +25,7 @@ Below are the descriptions for each label used in the tables:
 
 ## 📄 Milestone Papers
 
-| Title | Year | Key Highlights | Label(s) | Repository / URL |
+| Title | Year | Key Highlights | Label(s) | URL |
 |-------|------|----------------|----------|------------------|
 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | Novel algorithms, Hardware optimization techniques, Deployment | [Paper](https://arxiv.org/abs/1704.04861) |
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Compound scaling of depth, width, and resolution for better accuracy/efficiency tradeoff. | Novel algorithms, Training paradigms, Hardware optimization techniques | [Paper](https://arxiv.org/abs/1905.11946) |
@@ -35,11 +35,11 @@ Below are the descriptions for each label used in the tables:
 
 ## 🛠️ Open Source Libraries/Frameworks
 
-| Name | Description | Key Highlights | Label(s) | Repository / URL |
+| Name | Description | Key Highlights | Label(s) | URL |
 |------|-------------|----------------|----------|------------------|
 | TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering. | Hardware optimization techniques, Training paradigms, Pruning, Quantization, Clustering | [GitHub](https://github.com/tensorflow/model-optimization) |
-| Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms, Pruning, Quantization, Knowledge distillation | [Distiller](https://github.com/IntelLabs/distiller) |
-| FastVLM | Official (planned) implementation of FastVLM for efficient vision encoding in VLMs. | Hybrid FastViTHD encoder, multi-size variants (0.5B, 1.5B, 7B), potential mobile deployment. | Novel algorithms, Deployment, Hardware optimization techniques | [Repository](https://github.com/apple/ml-fastvlm)|
+| Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms, Pruning, Quantization, Knowledge distillation | [GitHub](https://github.com/IntelLabs/distiller) |
+| FastVLM | Official (planned) implementation of FastVLM for efficient vision encoding in VLMs. | Hybrid FastViTHD encoder, multi-size variants (0.5B, 1.5B, 7B), potential mobile deployment. | Novel algorithms, Deployment, Hardware optimization techniques | [GitHub](https://github.com/apple/ml-fastvlm)|
 
 ---
 
