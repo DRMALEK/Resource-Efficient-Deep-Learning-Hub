@@ -53,4 +53,6 @@ Below are the descriptions for each label used in the tables:
 
 ---
 
-Feel free to expand and customize this template as your collection grows!
+## 📜 License
+
+This project is licensed under the MIT License.
