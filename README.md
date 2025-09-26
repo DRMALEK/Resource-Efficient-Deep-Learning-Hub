@@ -27,8 +27,9 @@ Below are the descriptions for each label used in the tables:
 
 | Title | Year | Key Highlights | Label(s) | Repository/URL |
 |-------|------|----------------|----------|----------------|
-| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | Novel algorithms, Hardware optimization | [Paper](https://arxiv.org/abs/1704.04861) |
-| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Training paradigms, Novel algorithms | [Paper](https://arxiv.org/abs/1905.11946) |
+| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory. | Novel algorithms, Hardware optimization techniques |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | 2019 | Proposes a compound scaling method for balancing depth, width, and resolution. | Training paradigms, Novel algorithms |
+| FastVLM: Efficient Vision Encoding for Vision Language Models | 2025 | Introduces FastViTHD hybrid vision encoder with 85x faster TTFT and 3.4x smaller vision encoder than LLaVA-OneVision-0.5B. Demonstrates efficient on-device deployment for mobile VLMs. | Novel algorithms, Hardware optimization techniques, Deployment | [FastVLM](https://github.com/apple/ml-fastvlm) |
 
 ---
 
@@ -36,8 +37,9 @@ Below are the descriptions for each label used in the tables:
 
 | Name | Description | Key Highlights | Label(s) | Repository/URL |
 |------|-------------|----------------|----------|----------------|
-| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering. | Hardware optimization, Training paradigms | [TensorFlow Model Optimization](https://www.tensorflow.org/model_optimization) |
+| TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering. | Hardware optimization techniques, Training paradigms |
 | Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms | [Distiller](https://github.com/IntelLabs/distiller) |
+| FastVLM | Official implementation of FastVLM with efficient vision encoding for Vision Language Models | Hybrid vision encoder (FastViTHD), multi-size model variants (0.5B, 1.5B, 7B), iOS/macOS deployment, Apple Silicon optimization | Novel algorithms, Deployment, Hardware optimization techniques | [FastVLM](https://github.com/apple/ml-fastvlm) |
 
 ---
 
