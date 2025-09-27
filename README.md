@@ -40,6 +40,9 @@ Below are the descriptions for each label used in the tables:
 | TensorFlow Model Optimization Toolkit | Tools and APIs to optimize ML models for deployment and efficiency. | Supports quantization, pruning, clustering. | Hardware optimization techniques, Training paradigms, Pruning, Quantization, Clustering | [GitHub](https://github.com/tensorflow/model-optimization) |
 | Distiller | Python package for neural network compression research. | Pruning, quantization, knowledge distillation. | Training paradigms, Learning paradigms, Pruning, Quantization, Knowledge distillation | [GitHub](https://github.com/IntelLabs/distiller) |
 | Torch-Pruning | Flexible, graph-aware structural pruning toolkit (DepGraph) supporting CNNs, Transformers, LLMs, and vision foundation models. | Implements dependency graph–based structured pruning; adaptable to diverse architectures (LLMs, vision); MIT licensed. | Pruning, Training paradigms | [GitHub](https://github.com/VainF/Torch-Pruning) |
+| Torch-Pruning | Flexible, graph-aware structural pruning toolkit (DepGraph) supporting CNNs, Transformers, LLMs, and vision foundation models. | Implements dependency graph–based structured pruning; adaptable to diverse architectures (LLMs, vision); MIT licensed. | Pruning, Training paradigms | [GitHub](https://github.com/VainF/Torch-Pruning) |
+| NVIDIA TensorRT Model Optimizer | A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed. | Supports quantization, pruning, knowledge distillation, speculative decoding for TensorRT deployment. | Hardware optimization techniques, Deployment, Pruning, Quantization, Knowledge distillation |  [GitHub](https://github.com/NVIDIA/TensorRT-Model-Optimizer) |
+
 ---
 
 ## 🚀 How to Contribute
