@@ -66,7 +66,3 @@ Below are the descriptions for each label used in the tables:
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-Would you like me to add **another book/resource section** later for *“Research Handbooks & Surveys”* (to include multi-author or edited volumes focused on efficient deep learning trends)? It could help separate tutorial-style books from reference-style ones.
