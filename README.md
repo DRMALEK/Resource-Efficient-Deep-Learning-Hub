@@ -30,8 +30,7 @@ Below are the descriptions for each label used in the tables:
 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 2017 | Introduces depthwise separable convolutions for reduced computation and memory.                                         | Novel algorithms, Hardware optimization techniques, Deployment         | [Paper](https://arxiv.org/abs/1704.04861) |
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks           | 2019 | Compound scaling of depth, width, and resolution for better accuracy/efficiency tradeoff.                               | Novel algorithms, Training paradigms, Hardware optimization techniques | [Paper](https://arxiv.org/abs/1905.11946) |
 | FastVLM: Efficient Vision Encoding for Vision Language Models                      | 2025 | Hybrid FastViTHD vision encoder; reports up to 85× faster TTFT and 3.4× smaller vision encoder vs LLaVA-OneVision-0.5B. | Novel algorithms, Deployment, Hardware optimization techniques         | [Paper](https://arxiv.org/abs/2412.13303) |
-
----
+| MobileLLM-Pro Technical Report                                                     | 2025 | 1B-parameter model optimized for on-device deployment; supports 128K context, 4-bit quantization, and novel distillation/merging techniques. | Novel algorithms, Training paradigms, Knowledge distillation, Quantization, Deployment | [Paper](https://arxiv.org/abs/2511.06719) |
 
 ## 🛠️ Open Source Libraries/Frameworks
 
