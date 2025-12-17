@@ -1,6 +1,12 @@
-# Resource-Efficient-Deep-Learning-Hub
+# Resource Efficient Deep Learning Hub
 
 Welcome to the Resource-Efficient Deep Learning Hub!
+
+<img width="1208" height="668" alt="Gemini_Generated_Image_enh9t0enh9t0enh9" src="https://github.com/user-attachments/assets/6606124e-5fdd-4c52-a47a-46697b98e233" />
+
+
+**Resource-efficient deep learning** refers to techniques and methods that reduce the computational, memory, and energy requirements of deep neural networks while maintaining or improving performance, enabling deployment on edge devices and scalable AI systems
+
 
 This repository is dedicated to aggregating milestone papers, open-source libraries, and key resources focused on resource efficiency.
 
